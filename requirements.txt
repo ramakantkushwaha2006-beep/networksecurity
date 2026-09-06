@@ -7,4 +7,6 @@ pymongo[srv]==3.12
 pymongo
 typing
 scikit-learn
+dill
+pyaml
 ##-e .
